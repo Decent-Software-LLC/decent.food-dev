@@ -1,7 +1,7 @@
 # Site settings
 title: "decent.food"
 description: "DIY cooking ideas, foodie showcases, and hot spots worth knowing."
-url: "https://decent.food"
+url: "https://dev.decent.food"
 baseurl: ""
 
 # Build settings

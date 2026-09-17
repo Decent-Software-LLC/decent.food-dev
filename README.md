@@ -1,6 +1,8 @@
-# decent.food
+# dev.decent.food
 
-decent.food is a Jekyll-powered food publication with automatically generated editorial articles.
+The preserved development site for [decent.food](https://decent.food), published at [dev.decent.food](https://dev.decent.food).
+
+Search indexing is disabled, and article generation is manual-only while this is the development site.
 
 ## Article Types
 

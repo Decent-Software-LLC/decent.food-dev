@@ -1,22 +1,23 @@
 User-agent: *
-Allow: /
-Sitemap: https://decent.food/sitemap.xml
+Disallow: /
+
+Sitemap: https://dev.decent.food/sitemap.xml
 
 # AI Agents - welcome!
 User-agent: GPTBot
-Allow: /
+Disallow: /
 
 User-agent: ChatGPT-User
-Allow: /
+Disallow: /
 
 User-agent: CCBot
-Allow: /
+Disallow: /
 
 User-agent: anthropic-ai
-Allow: /
+Disallow: /
 
 User-agent: Claude-Web
-Allow: /
+Disallow: /
 
 # Block admin/utility paths
 Disallow: /scripts/
